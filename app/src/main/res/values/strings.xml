@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EnglishTesting</string>
+    <string name="begin_testing">Begin testing</string>
+    <string name="back"><![CDATA[< Back]]></string>
+</resources>
